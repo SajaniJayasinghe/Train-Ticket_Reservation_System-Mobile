@@ -12,3 +12,10 @@ Travelers can easily create, modify, and cancel reservations through the mobile 
 Our mobile application also offers travelers the ability to view their existing bookings and access their reservation history. This feature allows users to keep track of their travel plans and provides transparency throughout their journey.
 
 In conclusion, our Ticket Reservation System is a comprehensive solution that enhances the travel experience for both travelers and back-office operators.
+
+
+• Traveler Features
+1. Travelers can create their own accounts.
+2. Travelers can deactivate their accounts.
+3. Travelers can create, modify, and cancel reservations.
+4. Travelers can view their existing bookings and reservation history.
